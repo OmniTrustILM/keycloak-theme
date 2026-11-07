@@ -1,4 +1,4 @@
-FROM alpine:3.24.3
+FROM alpine:3.24.4
 
 LABEL org.opencontainers.image.authors="ILM <ilm@omnitrust.com>" \
       org.opencontainers.image.title="ILM Keycloak Theme" \
